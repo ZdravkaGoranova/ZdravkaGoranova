@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZdravkaGoranova
 - 👀 I’m interested in JavaScript 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m learning Web Development with JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zdr_mladenova90@abv.bg 
 
