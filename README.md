@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @ZdravkaGoranova
-- 👀 I’m interested in JavaScript 
-- 🌱 I’m learning Web Development with JS
-- 💻 I fell in love to coding from the first moment
-- 📫 How to reach me zdr_mladenova90@abv.bg 
-
-<!---
-ZdravkaGoranova/ZdravkaGoranova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 ## Hi there,I'm Zdravka 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-oval&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/zdravka.goranova/)   [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-oval&logo=Instagram&logoColor=black)](https://www.instagram.com/zdravka.goranova/)
@@ -32,3 +20,7 @@ You can click the Preview link to take a look at your changes.
 | ------------- | ------------- |
 
 >
+<!---
+ZdravkaGoranova/ZdravkaGoranova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
