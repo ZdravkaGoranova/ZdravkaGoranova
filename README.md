@@ -7,8 +7,9 @@
 - 💻 I fell in love to coding from the first moment.
 - :mortar_board: Fact: I have Master's Degree Business Administration and Managment-Technical University of Sofia
 - :sunny: FactI: love :bicyclist: and walking in the woods.
-- :e-mail: How to reach me: zdr_mladenova90@abv.bg.
 - 🔗 https://www.linkedin.com/in/zdravka-goranova
+- - :e-mail: How to reach me: zdr_mladenova90@abv.bg.
+- 📞 +359876144342
 - My zodiac sign is :aquarius:
    
    <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
