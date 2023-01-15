@@ -8,7 +8,7 @@
 - :mortar_board: Fact: I have Master's Degree Business Administration and Managment-Technical University of Sofia
 - :sunny: FactI: love :bicyclist: and walking in the woods.
 - 🔗 https://www.linkedin.com/in/zdravka-goranova
-- - :e-mail: How to reach me: zdr_mladenova90@abv.bg.
+- :e-mail: How to reach me: zdr_mladenova90@abv.bg.
 - 📞 +359876144342
 - My zodiac sign is :aquarius:
    
