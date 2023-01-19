@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-oval&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/zdravka.goranova/)   [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-oval&logo=Instagram&logoColor=black)](https://www.instagram.com/zdravka.goranova/)
  
 
-- :seedling: I’m learning Web Development with JS.
+- :seedling:I'm learning Javascript, React.
 - 💻 I fell in love to coding from the first moment.
 - :mortar_board: Fact: I have Master's Degree Business Administration and Managment-Technical University of Sofia
 - :sunny: FactI: love :bicyclist: and walking in the woods.
