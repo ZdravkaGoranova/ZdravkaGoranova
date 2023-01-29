@@ -3,8 +3,8 @@
 ## Hi there,I'm Zdravka 👋
 
 # 💫 About Me:
-🔭 Currently I'm a student at  @SoftUni, where I'm learning about Web development with JavaScript<br>💻 I fell in love to coding from the first moment.<br>🎓 I have Master's Degree Business Administration and Management-Technical University of Sofia<br>🌱 I’m currently learning more about JavaScript, Node.js, React and Angular<br>📧 How to reach me: @mail-  zdr_mladenova90@abv.bg,
-📞 +359876144342 and  @linkedin -https://www.linkedin.com/in/zdravka-goranova<br>⚡ Fun fact love 🚴 and walking in the woods.
+🔭 Currently I'm a student at  @SoftUni, where I'm learning about Web development with JavaScript<br>💻 I fell in love to coding from the first moment.<br>🎓 I have Master's Degree Business Administration and Management-Technical University of Sofia<br>🌱 I’m currently learning more about JavaScript, Node.js, React and Angular<br>📧 How to reach me: @mail:  zdr_mladenova90@abv.bg,
+📞: +359876144342 and  @linkedin: https://www.linkedin.com/in/zdravka-goranova<br>⚡ Fun fact love 🚴 and walking in the woods.
 
 
 ## 🌐 Socials:
