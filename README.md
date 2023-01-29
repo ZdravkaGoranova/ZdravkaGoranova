@@ -1,3 +1,7 @@
+![DogHackerGIF](https://user-images.githubusercontent.com/106737347/215333470-004d8f7b-cad2-4625-b0e8-de056dca05e4.gif)
+
+![InjectingSvhGIF](https://user-images.githubusercontent.com/106737347/215333515-c03fabdf-48de-4a33-9216-88afc9fbfe69.gif)
+
 ## Hi there,I'm Zdravka 👋
 
 # 💫 About Me:
