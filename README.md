@@ -1,6 +1,4 @@
-![InjectingSvhGIF](https://user-images.githubusercontent.com/106737347/215333515-c03fabdf-48de-4a33-9216-88afc9fbfe69.gif)
-
-## Hi there,I'm Zdravka 👋
+## Hello World! I'am Zdravka 👋
 
 # 💫 About Me:
 🔭 Currently I'm a student at  @SoftUni, where I'm learning about Web development with JavaScript<br>💻 I fell in love to coding from the first moment.<br>🎓 I have Master's Degree Business Administration and Management-Technical University of Sofia<br>🌱 I’m currently learning more about JavaScript, Node.js, React and Angular<br>📧 How to reach me: @mail:  zdr_mladenova90@abv.bg,
@@ -25,12 +23,7 @@
 
 ![CodingGIF](https://user-images.githubusercontent.com/106737347/215333844-a7da9fdf-1945-4610-858b-0c58159acb36.gif)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ZdravkaGoranova&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ZdravkaGoranova) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
