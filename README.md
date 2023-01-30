@@ -1,6 +1,10 @@
+
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/106737347/215497915-f090e1ad-523f-4dd5-90a2-48161ff7f637.gif" width="500"/>
+</div>
+
+
 ## Hello World! I'am Zdravka 👋
-
-
 # 💫 About Me:
 🔭 Currently I'm a student at SoftUni, where I'm learning about Web Developer with JavaScript<br>💻 I fell in love to coding from the first moment.<br>🎓 I have Master's Degree Business Administration and Management-Technical University of Sofia<br>🌱 I’m currently learning more about JavaScript, Node.js, React and Angular<br>📧 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zdravka-goranova) and   @mail:  zdr_mladenova90@abv.bg 
 <br>⚡ Fun fact love 🚴 and walking in the woods.
