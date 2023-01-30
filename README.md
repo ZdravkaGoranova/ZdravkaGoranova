@@ -6,12 +6,12 @@
 <br>⚡ Fun fact love 🚴 and walking in the woods.
 
 
-### 🌐Contact me:
+### 🌐 Contact me:
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zdravka-goranova) 
 
 
-## Certificate 
+## 📜 Certificate 
 
 | Courses           | 	Certificates                                                               |
 | ----------------- | ------------------------------------------------------------------ |
