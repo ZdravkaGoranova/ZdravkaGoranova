@@ -19,7 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+![CodingGIF](https://user-images.githubusercontent.com/106737347/215333844-a7da9fdf-1945-4610-858b-0c58159acb36.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZdravkaGoranova&icon=0&color=0)](https://visitcount.itsvg.in)
