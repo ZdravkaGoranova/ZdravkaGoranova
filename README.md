@@ -11,15 +11,14 @@
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zdravka-goranova) 
 
 
-### Certificate 
+## Certificate 
 
 | Courses           | 	Certificates                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| JavaScript Applications | 👉 ✅ 📃|
-| JavaScript Advanced | 👉 ✅ 📃|
-| Programming Fundamentals with JavaScript  | 👉 ✅ 📃 |
-| Programming Basics with JavaScript  | 👉 ✅ 📃 |
-
+| [JavaScript Applications](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Applications%20-%20October%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+| [JavaScript Advanced](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Advanced%20-%20September%202022%20-%20Certificate%20(1).pdf) | 👉 ✅ 📃|
+| [Programming Fundamentals with JavaScript ](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/Programming%20Fundamentals%20with%20JavaScript%20-%20May%202022%20-%20Certificate.pdf)| 👉 ✅ 📃 |
+| [Programming Basics with JavaScript](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/Programming%20Basics%20-%20February%202022%20-%20Certificate.pdf) | 👉 ✅ 📃 |
 
 ### 💻 Tech Stack:
 
