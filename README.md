@@ -19,7 +19,7 @@
 
 | Courses           | 	Certificates                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-|[HTML & CSS](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/ReactJS.pdf)| 👉 ✅ 📃|
+|[HTML & CSS](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/HTML%20%26%20CSS%20-%20May%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
 | [JavaScript Back-End](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Back-End%20-%20January%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
 |[React -JavaScript](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/ReactJS.pdf)| 👉 ✅ 📃|
 | [JavaScript Back-End](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Back-End%20-%20January%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
