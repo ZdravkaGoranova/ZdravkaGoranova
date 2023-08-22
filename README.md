@@ -20,13 +20,14 @@
 
 | Courses           | 	Certificates                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-|1.  [HTML & CSS](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/HTML-CSS%20-Certificate.pdf) | 👉 ✅ 📃 |
-|2.  [React -JavaScript](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/ReactJS.pdf)| 👉 ✅ 📃 |
-|3.  [JavaScript Back-End](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Back-End%20-%20January%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
+|8. [Angular](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/Angular%20-%20June%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|7. [HTML & CSS](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/HTML%20%26%20CSS%20-%20May%202023%20-%20Certificate%20(1).pdf)| 👉 ✅ 📃|
+|6.  [React -JavaScript](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/ReactJS.pdf)| 👉 ✅ 📃 |
+|5.  [JavaScript Back-End](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Back-End%20-%20January%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
 |4.  [JavaScript Applications](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Applications%20-%20October%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|5.  [JavaScript Advanced](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Advanced%20-%20September%202022%20-%20Certificate%20(1).pdf)| 👉 ✅ 📃|
-|6.  [Programming Fundamentals with JavaScript ](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/Programming%20Fundamentals%20with%20JavaScript%20-%20May%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|7. [Programming Basics with JavaScript](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/Programming%20Basics%20-%20February%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|3.  [JavaScript Advanced](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/JS%20Advanced%20-%20September%202022%20-%20Certificate%20(1).pdf)| 👉 ✅ 📃|
+|2.  [Programming Fundamentals with JavaScript ](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/Programming%20Fundamentals%20with%20JavaScript%20-%20May%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|1. [Programming Basics with JavaScript](https://github.com/ZdravkaGoranova/JavaScript-Certificate/blob/main/Certificate/Programming%20Basics%20-%20February%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
 
 
 
