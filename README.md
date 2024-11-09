@@ -7,7 +7,7 @@
 
 #  I'am Zdravka 👋
 ## 💫 About Me:
-🔭 Currently I'm a student at SoftUni, where I'm learning about Web Developer with JavaScript<br>💻 I fell in love to coding from the first moment.<br>🎓 I have Master's Degree Human Resource Management and  Bachelor's Degree Business Еconomic Management -Technical University of Sofia<br>🌱 I’m currently learning  MySQL Workbench.<br>📧 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zdravka-goranova) and   @mail:  zdr_mladenova90@abv.bg /zdravka.p.goranova@gmail.com 
+🔭 Currently I'm open to new work<br>💻 I fell in love to coding from the first moment.<br>🎓 I have Master's Degree Human Resource Management and  Bachelor's Degree Business Еconomic Management -Technical University of Sofia<br>🌱 I’m currently learning  MySQL Workbench.<br>📧 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zdravka-goranova) and   @mail:  zdr_mladenova90@abv.bg /zdravka.p.goranova@gmail.com 
 <br>⚡ Fun fact love 🚴 and walking in the woods.
 
 
